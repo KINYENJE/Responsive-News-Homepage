@@ -37,6 +37,18 @@ header{
     text-align: right;
 }
 
+.links a:hover{
+    color: var(--Soft-orange);
+}
+
+.links li{
+    list-style-type: none;
+}
+
+ul{
+    display: flex;
+}
+
 p{
     font-size: 15px;
     line-height: 1.5;
